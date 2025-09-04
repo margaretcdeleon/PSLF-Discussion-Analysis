@@ -109,7 +109,7 @@ jupyter notebook
 - Time series plots and trend analysis
 - Engagement metrics and platform comparisons
 
-## 🏛️ Policy Impact Analysis
+## Policy Impact Analysis
 
 The analysis includes assessment of major PSLF policy changes:
 - **2017-10-01**: PSLF Program First Eligible Date
