@@ -1,10 +1,10 @@
 # PSLF Discussion Analysis
 
-## 📊 Overview
+## Overview
 
 This project analyzes Public Service Loan Forgiveness (PSLF) discussions across multiple platforms, with a focus on medical professionals and healthcare workers. The analysis includes sentiment analysis, time series trends, policy impact assessment, and comprehensive data visualizations.
 
-## 🔍 Key Features
+## Key Features
 
 - **Multi-Platform Data Collection**: Reddit (r/PSLF, r/medicalschool, r/medicine, r/StudentLoans, r/personalfinance) and Student Doctor Network
 - **Sentiment Analysis**: TextBlob-based polarity and subjectivity analysis
@@ -13,7 +13,7 @@ This project analyzes Public Service Loan Forgiveness (PSLF) discussions across 
 - **Comprehensive Visualizations**: 12-panel analytics dashboard with word clouds and trend analysis
 - **Statistical Modeling**: Trend analysis and basic forecasting
 
-## 📈 Analysis Results
+## Analysis Results
 
 ### Dataset Overview
 - **322 total posts** analyzed across platforms
@@ -27,7 +27,7 @@ This project analyzes Public Service Loan Forgiveness (PSLF) discussions across 
 - **Academic calendar correlation**: Medical discussions peak during training transitions
 - **Seasonal patterns**: August peak (residency/fellowship season), October low
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Python 3.9+**
 - **Data Analysis**: pandas, numpy, scipy, scikit-learn
@@ -36,7 +36,7 @@ This project analyzes Public Service Loan Forgiveness (PSLF) discussions across 
 - **Web Scraping**: requests, BeautifulSoup
 - **API Integration**: Reddit API (PRAW)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PSLF/
@@ -49,7 +49,7 @@ PSLF/
 └── README.md                              # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -119,7 +119,7 @@ The analysis includes assessment of major PSLF policy changes:
 - **2022-10-31**: Limited PSLF Waiver Deadline
 - **2023-07-01**: New SAVE Income Plan Launch
 
-## 📈 Key Findings
+## Key Findings
 
 1. **Volume Growth**: Strong upward trajectory, especially since 2022
 2. **Policy Sensitivity**: Clear response to PSLF policy changes
@@ -127,26 +127,10 @@ The analysis includes assessment of major PSLF policy changes:
 4. **Sentiment Stability**: Generally positive with improving trend
 5. **Platform Dynamics**: Medical subreddits show different engagement patterns
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Real-time data pipeline integration
 - Interactive dashboard development
 - Advanced NLP topic modeling
 - Predictive analytics for policy impact
 - Cross-platform sentiment comparison
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or collaboration opportunities, please open an issue in this repository.
-
----
-
-*This analysis was conducted for research purposes to understand public discourse around PSLF policy and its impact on medical professionals and public service workers.*
