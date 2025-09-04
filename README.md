@@ -80,7 +80,7 @@ jupyter notebook
 
 5. Open `notebook.ipynb` and run the cells
 
-## 📊 Analysis Components
+## Analysis Components
 
 ### 1. Data Collection
 - Reddit API integration for real-time data
